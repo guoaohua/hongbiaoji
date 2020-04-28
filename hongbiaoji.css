@@ -24,6 +24,7 @@ height:100px;
     border-left:solid 50px red;
 }
 .text a{position:absolute;
+    margin-top:4rem;
 right:0px;
     top:40px;
     bottom:300px;
