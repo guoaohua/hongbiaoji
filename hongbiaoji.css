@@ -19,9 +19,9 @@ width:100px;
 height:100px;
     box-sizing: border-box;
     border-top:solid 50px white;
-    border-bottom: solid 50px red;
+    border-bottom: solid 50px transparent;
     border-right:solid 50px white;
-    border-left:solid 50px red;
+    border-left:solid 50px transparent;
 }
 .text{position:absolute;
 right:50px;
