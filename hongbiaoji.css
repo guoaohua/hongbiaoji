@@ -23,7 +23,7 @@ height:100px;
     border-right:solid 50px white;
     border-left:solid 50px red;
 }
-.text a{position:absolute;
+.text{position:absolute;
 right:50px;
     top:40px;
     bottom:300px;
