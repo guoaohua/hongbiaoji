@@ -1,0 +1,33 @@
+html,body{margin:0px;
+padding:0px;}
+.main{ background-color: red;
+height:200px;
+width:200px;
+position: absolute;
+top:0;
+right:0;
+box-sizing: border-box;
+border-top:solid 100px red;
+border-bottom: solid 100px white;
+border-right:solid 100px red;
+border-left:solid 100px white;}
+.small-triangle{position:absolute;
+top:0;
+right:0;
+background-color:white;
+width:100px;
+height:100px;
+    box-sizing: border-box;
+    border-top:solid 50px white;
+    border-bottom: solid 50px red;
+    border-right:solid 50px white;
+    border-left:solid 50px red;
+}
+.text a{position:absolute;
+right:60px;
+    top:40px;
+    bottom:300px;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+filter:progid:DXImageTransform.Microsoft.BasicImage(Rotation=0.45);
+    cursor:pointer;}
